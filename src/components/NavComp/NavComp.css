@@ -1,0 +1,12 @@
+.custom-navbar {
+    background-color: #f5d33e; /* Cambia el color de fondo de la barra de navegación */
+}
+.custom-navbar a{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+.custom-navbar a:hover{
+    color: rgb(230, 235, 205);
+}
