@@ -1,16 +1,17 @@
 <template>
   <div id="app">
-    <NavComp/>
+    <PaginaIndex></PaginaIndex>
   </div>
 </template>
 
 <script>
-import NavComp from './components/NavComp/NavComp.vue';
 
+import PaginaIndex from './Pages/PaginaIndex.vue';
 export default {
   name: 'App',
   components: {
-    NavComp
+    
+    PaginaIndex
   }
 }
 </script>

@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <b-navbar type="dark"  class="custom-navbar fixed-top justify-content-center">
+    <b-navbar type="dark"  class="custom-navbar justify-content-center">
       <b-navbar-nav class="justify-content-center flex-column flex-sm-row">
         <b-nav-item href="#">Inicio</b-nav-item>
         <b-nav-item href="#">Acerca de</b-nav-item>
@@ -20,7 +19,7 @@
         </b-nav-item-dropdown> -->
       </b-navbar-nav>
     </b-navbar>
-  </div>
+  
 </template>
 
 <style src="./NavComp.css"></style>

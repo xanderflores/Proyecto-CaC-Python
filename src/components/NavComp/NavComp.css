@@ -1,5 +1,6 @@
 .custom-navbar {
     background-color: #f5d33e; /* Cambia el color de fondo de la barra de navegación */
+    width: 100%;
 }
 .custom-navbar a{
     color: rgb(0, 0, 0);
